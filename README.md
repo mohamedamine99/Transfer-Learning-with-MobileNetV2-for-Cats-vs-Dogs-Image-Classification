@@ -1,7 +1,7 @@
 # Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification
 This project is an image classification project based on a transfer learning approach using with MobileNetV2 architecture.
 
-This project is an improvement on a [previous project] in which we built and trained a custom deep CNN from the ground up.
+This project is an improvement on a [previous project](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification) in which we built and trained a custom deep CNN from the ground up.
 
 Finally, this project demonstrates the power of transfer learning; in fact, we achieved a model **accuracy of 97%** using only **50% of the train dataset**, whereas the previous project only achieved **92% accuracy** using all available data.
 
