@@ -9,3 +9,4 @@ The main approach during this project was to use gradual transfer learning where
 
 You can find a link provided by microsoft to the dataset used in ths project [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765) .
 
+You can find the model weights and history logs [here](https://drive.google.com/drive/folders/1dQJrtzX0-8K5oYHveqpagmWQrQHAcVNE?usp=share_link)
